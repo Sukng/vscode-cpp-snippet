@@ -1,2 +1,5 @@
-# vscode-cpp-snippet
-Snippets for cpp in VSCode
+# Snippets for cpp in VSCode
+C/C++ 这个插件的代码片段太**Shit**了，很多地方都不符合《C++ Primer》的写法要求，于是自己写了一个。
+
+2022/3/20：
+  写了基础面向对象部分，基本日常够用，以后有面向对象的需求再更新吧。
